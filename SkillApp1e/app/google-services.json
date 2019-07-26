@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "476483603537",
+    "firebase_url": "https://skill-manager-78314.firebaseio.com",
+    "project_id": "skill-manager-78314",
+    "storage_bucket": "skill-manager-78314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476483603537:android:511b6ffdac42384a",
+        "android_client_info": {
+          "package_name": "com.example.ravi.skillapp1e"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476483603537-t933c8p1viqb4tcun27dkbhe891fh30u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ravi.skillapp1e",
+            "certificate_hash": "e0756c3244943d3f40844ea98a0158f257b25709"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAym6rq6DxhUqIh8UwE3R-eHD4jrHvInDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476483603537-anju31on8kp2kb8j0inu93rv2vtlpkds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

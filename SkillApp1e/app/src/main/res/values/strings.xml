@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SkillApp1e</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Register</string>
+    <string name="signout">Sign Out</string>
+</resources>
