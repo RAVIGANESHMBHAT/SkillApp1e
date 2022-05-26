@@ -1,2 +1,2 @@
-# SkillApp1e
-SkillApp1e is an Android App
+# SkillZa
+SkillZa is an Android Application which acts as a platform for connecting the freelancers with the one who is in need of any work from the freelancers. It will be a trusted platform for showcasing the skills by providing relevant documents and the previous works. Users can find the better developers by looking at the ratings given by other users which helps in finding the best and better developers for the work.
